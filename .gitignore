@@ -4,5 +4,6 @@
 
 *.log
 
-react-hello-world/.env
+**/.env
+
 react-hello-world/node_modules/
